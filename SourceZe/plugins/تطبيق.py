@@ -1,7 +1,7 @@
 """
 Fetch App Details from Playstore.
 .app <app_name> to fetch app details.
-  © [source](http://t.me/Source_Ze)
+  © [source](http://t.me/hn-pp)
 """
 
 import bs4
